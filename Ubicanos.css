@@ -1,0 +1,43 @@
+body{
+	background:#D5D8DC;
+	font-family:Tahoma;
+	font-sinze:11px;
+	width:1200px;
+	margin:auto; 
+	text-align:center;
+}
+#subtitulo{
+	padding:0em;
+	margin-top:-1em;
+	font-size:1.5em;
+	color:#000000;
+}
+ #menu li{
+	display: inline-block;
+ }
+#menu a{
+	display:block;
+	float:center;
+	margin-right:0.30em;
+	padding:1em 3em;
+	box-shadow:inset 8px 7px 10px 8px 
+rgba(0,0,0,0.25);
+    text-decoration:none;
+    text-shadow:1px 1px 0px;
+    text-transform:uppercase;
+    font-size:.90;
+    color:#616A6B;
+    background-color:#EAF2F8;
+ }
+ #seccion{
+	width:1150px;
+	padding:20px 40px;
+	background:#D6EAF8;
+	height:1000px;
+}
+ 
+img{
+	width:60px;
+	height:60px;
+	padding: 10px 0px 0px 5px;
+}
